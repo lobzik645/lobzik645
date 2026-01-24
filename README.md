@@ -14,7 +14,6 @@
   <br><br>
   
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Minarimus)
-  
   <br><br>
   <p style="opacity: 0.4; font-size: 0.7em; font-family: monospace; margin-top: 6px;">
     <code>ID: 5633806151</code>
