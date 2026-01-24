@@ -4,7 +4,7 @@
   <br><br>
 <br><br>
 <pre>
-    Self-written scripts • AFK bots • Genshin tears • From the Urals 🏔️
+    𝗦𝗲𝗹𝗳-𝘄𝗿𝗶𝘁𝘁𝗲𝗻 𝘀𝗰𝗿𝗶𝗽𝘁𝘀 • 𝗔𝗙𝗞 𝗯𝗼𝘁𝘀 • 𝗚𝗲𝗻𝘀𝗵𝗶𝗻 𝘁𝗲𝗮𝗿𝘀 • 𝗙𝗿𝗼𝗺 𝘁𝗵𝗲 𝗨𝗿𝗮𝗹𝘀 🏔️
     Пишу код, который живёт дольше меня.  
     Автоматизирую Minecraft, взрываю Roblox Studio, слушаю Yandex Music в фоне.  
 </pre>
