@@ -20,16 +20,10 @@
     Никаких копипастов — только самопальный.
   </p>
 
-  <br><br>
-
-  <a href="https://t.me/Minarimus">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=social&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
 
   <br><br>
 
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Minarimus)  
-  *это связь в Telegram*
 
   <br><br>
 
