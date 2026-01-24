@@ -16,8 +16,8 @@
 
   <br><br>
 
-  <!-- Анимированный котик -->
-  <img src="https://media1.tenor.com/m/ZyReOuJKhGwAAAAC/nana-osaki-nana.gif" width="180" />
+  <!-- Nana Osaki -->
+  <img src="https://media.tenor.com/6yKqWvRdJrMAAAAC/nana-osaki-anime.gif" width="220" />
 
   <br><br>
 
