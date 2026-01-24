@@ -15,7 +15,10 @@
   
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Minarimus)
   <br><br>
+ <img src="https://github-readme-stats.vercel.app/api?username=lobzik645&show_icons=true&theme=radical&bg_color=00000000&border_radius=8&hide_border=true" height="130" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobzik645&layout=compact&theme=radical&bg_color=00000000&border_radius=8&hide_border=true" height="130" />
   <p style="opacity: 0.4; font-size: 0.7em; font-family: monospace; margin-top: 6px;">
     <code>ID: 5633806151</code>
   </p>
+<br><br>
 </div>
