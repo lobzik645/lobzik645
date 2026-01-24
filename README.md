@@ -28,11 +28,10 @@
 
   <br><br>
 
-  <p style="opacity: 0.6; font-size: 0.75em; margin: 0; font-family: 'Fira Code', monospace;">
-    это связь в Telegram
-  </p>
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Minarimus)  
+  *это связь в Telegram*
 
-  <br>
+  <br><br>
 
   <p style="opacity: 0.4; font-size: 0.7em; font-family: monospace; margin-top: 6px;">
     <code>ID: 5633806151</code>
