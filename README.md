@@ -1,34 +1,34 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1500&pause=400&color=FFFFFF&center=true&vCenter=true&width=200&lines=smuki" 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1400&pause=400&color=FFFFFF&center=true&vCenter=true&width=190&lines=smuki" 
        alt="Typing SVG" />
 
   <br><br>
 
-  <p style="opacity: 0.85; font-size: 0.9em; margin: 0; letter-spacing: 0.5px;">
+  <p style="opacity: 0.82; font-size: 0.85em; margin: 0; letter-spacing: 0.4px; font-family: 'Fira Code', monospace;">
     Self-written scripts • AFK bots • Genshin tears • From the Urals 🏔️
   </p>
 
   <br>
 
-  <img src="https://media1.tenor.com/m/ZyReOuJKhGwAAAAC/nana-osaki-nana.gif" width="240" style="border-radius: 10px;" />
+  <img src="https://media1.tenor.com/m/ZyReOuJKhGwAAAAC/nana-osaki-nana.gif" width="220" style="border-radius: 8px;" />
 
   <br><br>
 
-  <p style="opacity: 0.75; font-size: 0.85em; line-height: 1.6; margin: 0; max-width: 320px;">
+  <p style="opacity: 0.72; font-size: 0.8em; line-height: 1.5; margin: 0; max-width: 300px; font-family: 'Fira Code', monospace;">
     Пишу код, который живёт дольше меня.<br>
-    Никаких копипастов — только чистый, жёсткий, самопальный.
+    Никаких копипастов — только самопальный.
   </p>
 
   <br><br>
 
   <a href="https://t.me/Minarimus">
-    <img src="https://raw.githubusercontent.com/smuki/smuki/main/assets/telegram-button.png" width="160" style="border-radius: 8px; cursor: pointer;" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=social&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 
   <br><br>
 
-  <p style="opacity: 0.6; font-size: 0.75em; margin-top: 4px;">
+  <p style="opacity: 0.6; font-size: 0.75em; margin: 0; font-family: 'Fira Code', monospace;">
     это связь в Telegram
   </p>
 
