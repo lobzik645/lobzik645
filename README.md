@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Анимация печатания -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=300&lines=smuki" 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=600&color=FFFFFF&center=true&vCenter=true&width=250&lines=smuki" 
        alt="Typing SVG" />
 
   <br><br>
@@ -17,7 +17,7 @@
   <br><br>
 
   <!-- Nana Osaki -->
-  <img src="https://media.tenor.com/6yKqWvRdJrMAAAAC/nana-osaki-anime.gif" width="220" />
+  <img src="https://media1.tenor.com/m/ZyReOuJKhGwAAAAC/nana-osaki-nana.gif" width="180" />
 
   <br><br>
 
@@ -26,7 +26,7 @@
 
   <br><br>
 
-  <div style="background: rgba(0,0,0,0.2); padding: 10px; border-radius: 8px; font-family: monospace; font-size: 0.9em;">
+  <div style="background: rgba(0,0,0,0.2); padding: 8px; border-radius: 6px; font-family: monospace; font-size: 0.85em;">
     <code>ID: 5633806151</code>
   </div>
 
