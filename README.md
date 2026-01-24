@@ -1,5 +1,6 @@
 <div align="center">
 
+  <!-- Анимация печатания -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=300&lines=smuki" 
        alt="Typing SVG" />
 
@@ -11,6 +12,12 @@
 
   > Пишу код, который живёт дольше меня.  
   > Автоматизирую Minecraft, взрываю Roblox Studio, слушаю Yandex Music в фоне.  
+  > Никаких копипастов — только чистый, жёсткий, самопальный код.
+
+  <br><br>
+
+  <!-- Анимированный котик -->
+  <img src="https://media1.tenor.com/m/ZyReOuJKhGwAAAAC/nana-osaki-nana.gif" width="180" />
 
   <br><br>
 
