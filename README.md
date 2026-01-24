@@ -5,14 +5,13 @@
 
   <br><br>
 
-  <p style="opacity: 0.82; font-size: 0.85em; margin: 0; letter-spacing: 0.4px; font-family: 'Fira Code', monospace;">
+<br><br>
+<pre>
     Self-written scripts • AFK bots • Genshin tears • From the Urals 🏔️
-  </p>
-  
-  > Пишу код, который живёт дольше меня.  
-  > Автоматизирую Minecraft, взрываю Roblox Studio, слушаю Yandex Music в фоне.  
-
-  <br><br>
+    Пишу код, который живёт дольше меня.  
+    Автоматизирую Minecraft, взрываю Roblox Studio, слушаю Yandex Music в фоне.  
+</pre>
+<br>
 
   <img src="https://media1.tenor.com/m/ZyReOuJKhGwAAAAC/nana-osaki-nana.gif" width="220" style="border-radius: 8px;" />
 
