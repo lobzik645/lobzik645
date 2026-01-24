@@ -7,6 +7,7 @@
 
   <p style="opacity: 0.82; font-size: 0.85em; margin: 0; letter-spacing: 0.4px; font-family: 'Fira Code', monospace;">
     Self-written scripts • AFK bots • Genshin tears • From the Urals 🏔️
+    Автоматизирую Minecraft, взрываю Roblox Studio, слушаю Yandex Music в фоне. 
   </p>
 
   <br>
