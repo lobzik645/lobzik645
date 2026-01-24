@@ -18,13 +18,6 @@
 
   <br><br>
 
-  <p style="opacity: 0.72; font-size: 0.8em; line-height: 1.5; margin: 0; max-width: 300px; font-family: 'Fira Code', monospace;">
-    Пишу код, который живёт дольше меня.<br>
-    Никаких копипастов — только самопальный.
-  </p>
-
-
-  <br><br>
 
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Minarimus)  
 
